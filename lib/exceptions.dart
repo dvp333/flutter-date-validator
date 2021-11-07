@@ -1,0 +1,1 @@
+class InvalidDateException implements Exception {}
